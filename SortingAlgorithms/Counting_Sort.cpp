@@ -45,3 +45,5 @@ int main()
     printArray(arr,n);
     return 0;
 }
+
+//Time Complexity: O(n+k)
